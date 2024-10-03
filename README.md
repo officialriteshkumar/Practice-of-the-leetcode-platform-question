@@ -13,6 +13,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1694-make-sum-divisible-by-p) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0432-all-oone-data-structure](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0432-all-oone-data-structure) |
 | [1256-rank-transform-of-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1694-make-sum-divisible-by-p) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1256-rank-transform-of-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1694-make-sum-divisible-by-p](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1694-make-sum-divisible-by-p) |
 <!---LeetCode Topics End-->
