@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0035-search-insert-position) |
 | [0859-design-circular-deque](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0859-design-circular-deque) |
 | [1256-rank-transform-of-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -88,4 +89,8 @@
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
