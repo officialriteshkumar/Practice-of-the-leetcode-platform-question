@@ -80,6 +80,7 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0567-permutation-in-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -99,4 +100,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
