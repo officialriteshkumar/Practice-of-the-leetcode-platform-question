@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0035-search-insert-position) |
 | [0859-design-circular-deque](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0859-design-circular-deque) |
 | [1256-rank-transform-of-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1256-rank-transform-of-an-array) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0567-permutation-in-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
