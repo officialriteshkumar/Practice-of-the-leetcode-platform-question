@@ -21,6 +21,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1694-make-sum-divisible-by-p) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1694-make-sum-divisible-by-p) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2586-longest-square-streak-in-an-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2586-longest-square-streak-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -115,6 +118,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0035-search-insert-position) |
+| [2586-longest-square-streak-in-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2586-longest-square-streak-in-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -124,6 +128,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0010-regular-expression-matching) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2586-longest-square-streak-in-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2586-longest-square-streak-in-an-array) |
 ## Recursion
 |  |
 | ------- |
