@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0012-integer-to-roman) |
 | [0670-maximum-swap](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0670-maximum-swap) |
 | [1276-closest-divisors](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1276-closest-divisors) |
 ## Array
@@ -59,6 +60,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0012-integer-to-roman) |
 | [0432-all-oone-data-structure](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0058-length-of-last-word) |
 | [0567-permutation-in-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0567-permutation-in-string) |
