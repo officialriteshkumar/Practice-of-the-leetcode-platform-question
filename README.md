@@ -25,6 +25,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [0010-regular-expression-matching](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0010-regular-expression-matching) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -167,4 +169,5 @@
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 <!---LeetCode Topics End-->
