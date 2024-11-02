@@ -111,6 +111,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2580-circular-sentence](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2580-circular-sentence) |
 ## Sliding Window
 |  |
 | ------- |
