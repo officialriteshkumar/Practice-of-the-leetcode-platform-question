@@ -28,6 +28,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3291-find-if-array-can-be-sorted) |
@@ -40,6 +41,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0567-permutation-in-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3291-find-if-array-can-be-sorted) |
 ## Prefix Sum
 |  |
@@ -141,6 +144,7 @@
 | [0035-search-insert-position](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0035-search-insert-position) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2716-prime-subtraction-operation) |
 ## String Matching
 |  |
