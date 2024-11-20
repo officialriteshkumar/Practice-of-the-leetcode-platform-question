@@ -81,6 +81,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2586-longest-square-streak-in-an-array) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [1304-longest-happy-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2580-circular-sentence](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2580-circular-sentence) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3451-string-compression-iii](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3451-string-compression-iii) |
 ## Sliding Window
 |  |
@@ -134,6 +136,7 @@
 | [0567-permutation-in-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Greedy
 |  |
 | ------- |
