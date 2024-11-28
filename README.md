@@ -29,6 +29,7 @@
 | [1972-rotating-the-box](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2089-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2586-longest-square-streak-in-an-array) |
@@ -185,6 +186,7 @@
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1304-longest-happy-string) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Backtracking
 |  |
@@ -211,6 +213,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2089-maximum-matrix-sum) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Number Theory
 |  |
@@ -224,8 +227,14 @@
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0787-sliding-puzzle) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Graph
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3189-find-champion-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
