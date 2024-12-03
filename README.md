@@ -29,6 +29,7 @@
 | [1972-rotating-the-box](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2089-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2232-adding-spaces-to-a-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2232-adding-spaces-to-a-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -49,6 +50,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1972-rotating-the-box) |
+| [2232-adding-spaces-to-a-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2232-adding-spaces-to-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Depth-First Search
@@ -134,6 +136,7 @@
 | [1304-longest-happy-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1304-longest-happy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2232-adding-spaces-to-a-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3451-string-compression-iii](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3451-string-compression-iii) |
@@ -209,6 +212,7 @@
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2232-adding-spaces-to-a-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2232-adding-spaces-to-a-string) |
 ## Matrix
 |  |
 | ------- |
