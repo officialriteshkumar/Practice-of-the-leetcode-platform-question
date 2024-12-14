@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0067-add-binary) |
 | [0670-maximum-swap](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0670-maximum-swap) |
 | [1276-closest-divisors](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1276-closest-divisors) |
 | [2716-prime-subtraction-operation](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2716-prime-subtraction-operation) |
@@ -140,6 +141,7 @@
 | [0012-integer-to-roman](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0067-add-binary) |
 | [0567-permutation-in-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -225,6 +227,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0067-add-binary) |
 | [1940-maximum-xor-for-each-query](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3291-find-if-array-can-be-sorted](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3291-find-if-array-can-be-sorted) |
@@ -235,6 +238,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0067-add-binary) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2692-take-gifts-from-the-richest-pile) |
