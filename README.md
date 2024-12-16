@@ -17,6 +17,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0088-merge-sorted-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0787-sliding-puzzle](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0859-design-circular-deque) |
@@ -55,6 +56,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0567-permutation-in-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0088-merge-sorted-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1256-rank-transform-of-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2164-two-best-non-overlapping-events) |
