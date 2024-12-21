@@ -317,4 +317,8 @@
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
