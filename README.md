@@ -72,6 +72,7 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0386-lexicographical-numbers) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Trie
 |  |
 | ------- |
@@ -313,6 +314,7 @@
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
