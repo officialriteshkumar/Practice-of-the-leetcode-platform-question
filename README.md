@@ -83,6 +83,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0432-all-oone-data-structure](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0859-design-circular-deque) |
 ## Design
