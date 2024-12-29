@@ -31,6 +31,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1694-make-sum-divisible-by-p) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1917-maximum-average-pass-ratio) |
@@ -171,6 +172,7 @@
 | [1304-longest-happy-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1304-longest-happy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2232-adding-spaces-to-a-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2300-construct-string-with-repeat-limit) |
 | [2580-circular-sentence](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2580-circular-sentence) |
@@ -229,6 +231,7 @@
 | [0494-target-sum](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2586-longest-square-streak-in-an-array) |
