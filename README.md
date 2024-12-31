@@ -74,6 +74,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -124,6 +125,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1197-parsing-a-boolean-expression) |
@@ -330,6 +332,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -338,6 +341,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
