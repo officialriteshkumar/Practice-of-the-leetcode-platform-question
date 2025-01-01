@@ -156,6 +156,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1940-maximum-xor-for-each-query) |
 ## String
@@ -173,6 +174,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1304-longest-happy-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
