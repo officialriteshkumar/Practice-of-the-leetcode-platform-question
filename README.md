@@ -58,6 +58,7 @@
 | [2868-continuous-subarrays](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0386-lexicographical-numbers) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Linked List
 |  |
 | ------- |
@@ -195,6 +197,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3451-string-compression-iii) |
 ## Sliding Window
 |  |
@@ -240,6 +243,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -363,4 +367,12 @@
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0181-employees-earning-more-than-their-managers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
