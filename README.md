@@ -24,6 +24,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0859-design-circular-deque) |
+| [0952-word-subsets](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1025-minimum-cost-for-tickets) |
 | [1256-rank-transform-of-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1256-rank-transform-of-an-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -114,6 +115,7 @@
 | [0432-all-oone-data-structure](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0952-word-subsets](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0952-word-subsets) |
 | [1256-rank-transform-of-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1694-make-sum-divisible-by-p) |
@@ -181,6 +183,7 @@
 | [0067-add-binary](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0067-add-binary) |
 | [0567-permutation-in-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1302-delete-characters-to-make-fancy-string) |
