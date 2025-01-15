@@ -234,6 +234,7 @@
 | [2089-maximum-matrix-sum](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2089-maximum-matrix-sum) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2300-construct-string-with-repeat-limit) |
+| [2509-minimize-xor](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2716-prime-subtraction-operation](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2716-prime-subtraction-operation) |
 ## Binary Search
@@ -302,6 +303,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2509-minimize-xor](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3291-find-if-array-can-be-sorted) |
 ## Enumeration
