@@ -47,6 +47,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2586-longest-square-streak-in-an-array) |
@@ -304,6 +305,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2509-minimize-xor](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3291-find-if-array-can-be-sorted) |
 ## Enumeration
@@ -392,4 +394,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
