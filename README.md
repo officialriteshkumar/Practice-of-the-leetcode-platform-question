@@ -64,6 +64,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
@@ -170,6 +171,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3291-find-if-array-can-be-sorted) |
 ## Prefix Sum
 |  |
@@ -410,4 +412,8 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Union Find
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
