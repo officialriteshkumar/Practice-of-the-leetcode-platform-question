@@ -7,6 +7,7 @@
 | [0012-integer-to-roman](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0070-climbing-stairs) |
 | [0670-maximum-swap](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0670-maximum-swap) |
 | [1276-closest-divisors](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1276-closest-divisors) |
 | [2716-prime-subtraction-operation](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2716-prime-subtraction-operation) |
@@ -274,6 +275,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0070-climbing-stairs) |
 | [0494-target-sum](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1025-minimum-cost-for-tickets) |
@@ -424,4 +426,8 @@
 | ------- |
 | [0854-making-a-large-island](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0854-making-a-large-island) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
