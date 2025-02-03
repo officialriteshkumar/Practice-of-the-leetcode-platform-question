@@ -72,6 +72,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3429-special-array-i) |
 ## Two Pointers
 |  |
