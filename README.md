@@ -32,6 +32,7 @@
 | [0952-word-subsets](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1025-minimum-cost-for-tickets) |
 | [1256-rank-transform-of-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1256-rank-transform-of-an-array) |
+| [1364-tuple-with-same-product](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -135,6 +136,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0952-word-subsets](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0952-word-subsets) |
 | [1256-rank-transform-of-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1256-rank-transform-of-an-array) |
+| [1364-tuple-with-same-product](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1694-make-sum-divisible-by-p) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -166,6 +168,7 @@
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2300-construct-string-with-repeat-limit) |
