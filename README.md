@@ -10,6 +10,7 @@
 | [0070-climbing-stairs](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0070-climbing-stairs) |
 | [0670-maximum-swap](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0670-maximum-swap) |
 | [1276-closest-divisors](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1276-closest-divisors) |
+| [2448-count-number-of-bad-pairs](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2716-prime-subtraction-operation) |
 ## Array
 |  |
@@ -56,6 +57,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2448-count-number-of-bad-pairs](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2448-count-number-of-bad-pairs) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -145,6 +147,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2448-count-number-of-bad-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2586-longest-square-streak-in-an-array) |
@@ -176,6 +179,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2300-construct-string-with-repeat-limit) |
+| [2448-count-number-of-bad-pairs](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2448-count-number-of-bad-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
