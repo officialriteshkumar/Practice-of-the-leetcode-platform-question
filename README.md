@@ -22,6 +22,7 @@
 | [0027-remove-element](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -423,6 +424,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -433,6 +435,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -461,4 +464,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
