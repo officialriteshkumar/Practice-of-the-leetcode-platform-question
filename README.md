@@ -23,6 +23,7 @@
 | [0035-search-insert-position](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0169-majority-element) |
 | [0407-trapping-rain-water-ii](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0169-majority-element) |
 | [0432-all-oone-data-structure](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -178,6 +180,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0169-majority-element) |
 | [1364-tuple-with-same-product](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -191,6 +194,7 @@
 | [0015-3sum](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0169-majority-element) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0780-max-chunks-to-make-sorted) |
 | [1256-rank-transform-of-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1256-rank-transform-of-an-array) |
@@ -471,6 +475,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
