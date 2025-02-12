@@ -60,6 +60,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2448-count-number-of-bad-pairs](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -151,6 +152,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2586-longest-square-streak-in-an-array) |
@@ -199,6 +201,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0780-max-chunks-to-make-sorted) |
 | [1256-rank-transform-of-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1256-rank-transform-of-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2164-two-best-non-overlapping-events) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2586-longest-square-streak-in-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -334,6 +337,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2434-design-a-number-container-system](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
