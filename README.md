@@ -114,6 +114,7 @@
 | [0386-lexicographical-numbers](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0854-making-a-large-island](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -133,6 +134,7 @@
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0859-design-circular-deque) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2434-design-a-number-container-system) |
@@ -153,6 +155,7 @@
 | [1160-letter-tile-possibilities](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1694-make-sum-divisible-by-p) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -429,6 +432,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -462,6 +466,7 @@
 | [0100-same-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -473,6 +478,7 @@
 | [0100-same-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Database
