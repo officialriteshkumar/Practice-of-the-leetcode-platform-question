@@ -34,6 +34,7 @@
 | [0787-sliding-puzzle](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0859-design-circular-deque) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1025-minimum-cost-for-tickets) |
 | [1256-rank-transform-of-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1256-rank-transform-of-an-array) |
@@ -151,6 +152,7 @@
 | [0432-all-oone-data-structure](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1256-rank-transform-of-an-array) |
@@ -466,6 +468,7 @@
 | [0100-same-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -478,6 +481,7 @@
 | [0100-same-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -511,6 +515,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0169-majority-element) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
