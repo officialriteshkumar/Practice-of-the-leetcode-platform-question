@@ -69,6 +69,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -117,6 +118,7 @@
 | [0854-making-a-large-island](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0854-making-a-large-island) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Trie
@@ -439,12 +441,14 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3189-find-champion-ii](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Shortest Path
@@ -472,6 +476,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
