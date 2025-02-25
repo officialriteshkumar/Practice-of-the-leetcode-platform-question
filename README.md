@@ -11,6 +11,7 @@
 | [0670-maximum-swap](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0670-maximum-swap) |
 | [1276-closest-divisors](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1276-closest-divisors) |
 | [1477-product-of-the-last-k-numbers](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -45,6 +46,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1694-make-sum-divisible-by-p) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -232,6 +234,7 @@
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1940-maximum-xor-for-each-query) |
@@ -338,6 +341,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1025-minimum-cost-for-tickets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2164-two-best-non-overlapping-events) |
