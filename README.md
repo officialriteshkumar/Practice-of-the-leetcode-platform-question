@@ -52,6 +52,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -344,6 +345,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2164-two-best-non-overlapping-events](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2794-maximum-number-of-moves-in-a-grid) |
