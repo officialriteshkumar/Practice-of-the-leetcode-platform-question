@@ -67,6 +67,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2232-adding-spaces-to-a-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2232-adding-spaces-to-a-string) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
