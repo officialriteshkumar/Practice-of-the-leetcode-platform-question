@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0016-3sum-closest) |
@@ -156,6 +157,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0169-majority-element) |
 | [0432-all-oone-data-structure](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0432-all-oone-data-structure) |
