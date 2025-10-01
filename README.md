@@ -511,6 +511,7 @@
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0197-rising-temperature) |
 ## Rolling Hash
 |  |
