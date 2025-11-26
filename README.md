@@ -20,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -132,6 +133,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Linked List
@@ -254,6 +256,7 @@
 | [0008-string-to-integer-atoi](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0067-add-binary) |
