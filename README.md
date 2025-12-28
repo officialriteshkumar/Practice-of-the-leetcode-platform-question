@@ -109,6 +109,7 @@
 | [0027-remove-element](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0567-permutation-in-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -261,6 +262,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0952-word-subsets) |
