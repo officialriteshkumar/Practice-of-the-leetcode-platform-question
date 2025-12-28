@@ -42,6 +42,7 @@
 | [0952-word-subsets](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1025-minimum-cost-for-tickets) |
 | [1256-rank-transform-of-an-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1256-rank-transform-of-an-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1364-tuple-with-same-product](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1477-product-of-the-last-k-numbers](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1477-product-of-the-last-k-numbers) |
@@ -325,6 +326,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0069-sqrtx) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -429,6 +431,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0854-making-a-large-island) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1972-rotating-the-box](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1972-rotating-the-box) |
