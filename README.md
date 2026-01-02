@@ -34,6 +34,7 @@
 | [0494-target-sum](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0704-binary-search](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0704-binary-search) |
 | [0780-max-chunks-to-make-sorted](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0854-making-a-large-island) |
@@ -333,6 +334,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
