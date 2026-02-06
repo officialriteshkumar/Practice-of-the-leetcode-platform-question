@@ -101,6 +101,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3634-minimum-removals-to-balance-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3634-minimum-removals-to-balance-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -246,6 +247,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3291-find-if-array-can-be-sorted) |
+| [3634-minimum-removals-to-balance-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -314,6 +316,7 @@
 | [2868-continuous-subarrays](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
 |  |
 | ------- |
