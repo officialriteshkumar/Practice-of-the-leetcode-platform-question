@@ -102,6 +102,7 @@
 | [3429-special-array-i](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3634-minimum-removals-to-balance-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3634-minimum-removals-to-balance-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -196,6 +197,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3719-longest-balanced-subarray-i](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3719-longest-balanced-subarray-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -260,6 +262,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3719-longest-balanced-subarray-i](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -561,6 +564,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [3719-longest-balanced-subarray-i](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -569,4 +573,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/1477-product-of-the-last-k-numbers) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
