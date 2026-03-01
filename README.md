@@ -206,6 +206,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -271,6 +272,7 @@
 | [0010-regular-expression-matching](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/officialriteshkumar/Practice-of-the-leetcode-platform-question/tree/master/0067-add-binary) |
